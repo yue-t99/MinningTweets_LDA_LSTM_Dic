@@ -13,13 +13,13 @@ The folder ['pics'](pics) contains the result of LDA word cloud and sentiment an
 
 [RNN_IURT.ipynb](RNN_IURT.ipynb) is used for training and classify the tweets that relating to different topics based on LSTM, such as "self driving" and "law", the training dataset can be reached in the following limk: [self_driving](https://drive.google.com/file/d/1sQ7Wi643bvsda_m_k6nuKgPYhkCB1igK/view?usp=drive_link) and [law](https://drive.google.com/file/d/1dB8VPUykNdjepeXIT6wLel7tpEfw3Rur/view?usp=drive_link)/
 
-[vaderSentiment.py](vaderSentiment.py] is used for sentiment analysis using the vader lexicon.
+[vaderSentiment.py](vaderSentiment.py) is used for sentiment analysis using the vader lexicon.
 
 ## Results
 LDA in Word cloud:
 ![](/pics/image.png)
 LDA in statistics:
-[link](/pics/LDA_Vis.html)\
+[link](/pics/LDA_Vis.html)
 
 Sentiment Analysis:
 ![](/pics/Senti_general.png)
