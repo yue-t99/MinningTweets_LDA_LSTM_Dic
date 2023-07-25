@@ -17,10 +17,10 @@ The folder ['pics'](pics) contains the result of LDA word cloud and sentiment an
 
 ## Results
 LDA in Word cloud:
-![](/pics/image.png)\
+![](/pics/image.png)
 LDA in statistics:
-![](/pics/LDA_Vis.html)\
+[link](/pics/LDA_Vis.html)\
 
 Sentiment Analysis:
-![](/pics/Senti_general.png)\
+![](/pics/Senti_general.png)
 
