@@ -16,3 +16,11 @@ The folder ['pics'](pics) contains the result of LDA word cloud and sentiment an
 [vaderSentiment.py](vaderSentiment.py] is used for sentiment analysis using the vader lexicon.
 
 ## Results
+LDA in Word cloud:
+![](/pics/image.png)\
+LDA in statistics:
+![](/pics/LDA_Vis.html)\
+
+Sentiment Analysis:
+![](/pics/Senti_general.png)\
+
